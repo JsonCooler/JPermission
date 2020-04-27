@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="email">邮箱</string>
+    <string name="more">更多</string>
+    <string name="camera">相机</string>
+    <string name="this_is_email">这是email</string>
+    <string name="this_is_more">这是更多</string>
+    <string name="this_is_camera">这是相机</string>
+</resources>
